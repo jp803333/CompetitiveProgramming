@@ -8,8 +8,8 @@
             "args": [
                 "-g",
                 "-o",
-                "WinPre",
-                "WinPre.cpp"
+                "reverseStringRecursion",
+                "reverseStringRecursion.cpp"
             ],
             "group": {
                 "kind": "build",
