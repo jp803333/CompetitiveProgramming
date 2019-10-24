@@ -1,4 +1,5 @@
 #include<iostream>
+//linklist program rishabh
 using namespace std;
 class node{
     public:
